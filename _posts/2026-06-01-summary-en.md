@@ -1,4 +1,9 @@
-# Horizon Daily - 2026-06-01
+---
+layout: default
+title: "Horizon Summary: 2026-06-01 (EN)"
+date: 2026-06-01
+lang: en
+---
 
 > From 8 items, 6 important content pieces were selected
 
@@ -138,4 +143,3 @@ hackernews · sigmazero · Jun 1, 12:08 · [Discussion](https://news.ycombinator
 **Tags**: `#AI`, `#ethics`, `#LLM`, `#accountability`, `#HackerNews discussion`
 
 ---
-
